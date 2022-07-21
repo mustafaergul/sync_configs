@@ -1,0 +1,4 @@
+filenames:
+  - "init.vim"
+  - "init.lua"
+    #- "testttt.sh"
